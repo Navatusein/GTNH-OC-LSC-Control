@@ -1,7 +1,12 @@
 descriptor:
   name: LSC Control
+  key: lsc-control-2.8
+  currentVersion: 2.8+
   description: Configuration for program LSC Control
   repositoryLink: https://github.com/Navatusein/GTNH-OC-LSC-Control
+  versions:
+    - name: 2.8+
+      url: "https://raw.githubusercontent.com/Navatusein/GTNH-OC-LSC-Control/refs/heads/main/config-descriptor.yml"
   fieldGroups:
     - key: logger
       name: Logger
